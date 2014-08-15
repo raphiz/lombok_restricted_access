@@ -31,7 +31,8 @@ A working example can be found in the sub project *example_usage*
 
 # What's next?
 * Add support for Eclipse
-* Add support for delombok 
+* Add support for delombok
+* Get rid of the compiler warnings (```warning: [options] bootstrap class path not set in conjunction with -source 1.6```)
 * Provide a lot more tests
 * Improve this README
 * ...
