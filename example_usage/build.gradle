@@ -1,0 +1,5 @@
+
+dependencies {
+    compile 'org.projectlombok:lombok:1.14.4'
+    compile project(':lombok_restricted_access_core')
+}

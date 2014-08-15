@@ -1,0 +1,10 @@
+
+dependencies {
+    compile 'org.projectlombok:lombok:1.14.4'
+    compile files("${System.properties['java.home']}/../lib/tools.jar")
+
+    // FIXME
+    compile files("${projectDir}/libs/spi.jar")
+    
+}
+
