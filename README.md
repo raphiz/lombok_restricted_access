@@ -41,7 +41,7 @@ A working example can be found in the sub project *example_usage*
 
 Open your terminal, change directory to the root of the project and run
 
-    ./gradlew clean build
+    ./gradlew clean build -q
 
 # License
 [MIT](http://opensource.org/licenses/mit-license.php)
